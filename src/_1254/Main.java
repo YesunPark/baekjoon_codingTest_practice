@@ -1,9 +1,10 @@
+package _1254;
 // 팰린드롬 https://www.acmicpc.net/problem/1254
 // 23.4.5 24:15 시작
 
 import java.util.Scanner;
 
-public class Main1254 {
+public class Main {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
